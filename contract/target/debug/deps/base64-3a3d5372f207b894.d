@@ -1,0 +1,12 @@
+/home/vlad/Documents/GitHub/get_test_net_money/get_near_testnet_money/contract/target/debug/deps/base64-3a3d5372f207b894.rmeta: /home/vlad/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.11.0/src/lib.rs /home/vlad/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.11.0/src/chunked_encoder.rs /home/vlad/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.11.0/src/display.rs /home/vlad/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.11.0/src/tables.rs /home/vlad/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.11.0/src/write/mod.rs /home/vlad/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.11.0/src/write/encoder.rs /home/vlad/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.11.0/src/encode.rs /home/vlad/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.11.0/src/decode.rs
+
+/home/vlad/Documents/GitHub/get_test_net_money/get_near_testnet_money/contract/target/debug/deps/base64-3a3d5372f207b894.d: /home/vlad/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.11.0/src/lib.rs /home/vlad/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.11.0/src/chunked_encoder.rs /home/vlad/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.11.0/src/display.rs /home/vlad/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.11.0/src/tables.rs /home/vlad/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.11.0/src/write/mod.rs /home/vlad/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.11.0/src/write/encoder.rs /home/vlad/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.11.0/src/encode.rs /home/vlad/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.11.0/src/decode.rs
+
+/home/vlad/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.11.0/src/lib.rs:
+/home/vlad/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.11.0/src/chunked_encoder.rs:
+/home/vlad/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.11.0/src/display.rs:
+/home/vlad/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.11.0/src/tables.rs:
+/home/vlad/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.11.0/src/write/mod.rs:
+/home/vlad/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.11.0/src/write/encoder.rs:
+/home/vlad/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.11.0/src/encode.rs:
+/home/vlad/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.11.0/src/decode.rs:

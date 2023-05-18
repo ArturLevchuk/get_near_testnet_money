@@ -1,0 +1,11 @@
+/home/vlad/Documents/GitHub/get_test_net_money/get_near_testnet_money/integration-tests/target/debug/deps/ed25519_dalek-e117221af216083a.rmeta: /home/vlad/.cargo/registry/src/github.com-1ecc6299db9ec823/ed25519-dalek-1.0.1/src/lib.rs /home/vlad/.cargo/registry/src/github.com-1ecc6299db9ec823/ed25519-dalek-1.0.1/src/constants.rs /home/vlad/.cargo/registry/src/github.com-1ecc6299db9ec823/ed25519-dalek-1.0.1/src/keypair.rs /home/vlad/.cargo/registry/src/github.com-1ecc6299db9ec823/ed25519-dalek-1.0.1/src/errors.rs /home/vlad/.cargo/registry/src/github.com-1ecc6299db9ec823/ed25519-dalek-1.0.1/src/public.rs /home/vlad/.cargo/registry/src/github.com-1ecc6299db9ec823/ed25519-dalek-1.0.1/src/secret.rs /home/vlad/.cargo/registry/src/github.com-1ecc6299db9ec823/ed25519-dalek-1.0.1/src/signature.rs
+
+/home/vlad/Documents/GitHub/get_test_net_money/get_near_testnet_money/integration-tests/target/debug/deps/ed25519_dalek-e117221af216083a.d: /home/vlad/.cargo/registry/src/github.com-1ecc6299db9ec823/ed25519-dalek-1.0.1/src/lib.rs /home/vlad/.cargo/registry/src/github.com-1ecc6299db9ec823/ed25519-dalek-1.0.1/src/constants.rs /home/vlad/.cargo/registry/src/github.com-1ecc6299db9ec823/ed25519-dalek-1.0.1/src/keypair.rs /home/vlad/.cargo/registry/src/github.com-1ecc6299db9ec823/ed25519-dalek-1.0.1/src/errors.rs /home/vlad/.cargo/registry/src/github.com-1ecc6299db9ec823/ed25519-dalek-1.0.1/src/public.rs /home/vlad/.cargo/registry/src/github.com-1ecc6299db9ec823/ed25519-dalek-1.0.1/src/secret.rs /home/vlad/.cargo/registry/src/github.com-1ecc6299db9ec823/ed25519-dalek-1.0.1/src/signature.rs
+
+/home/vlad/.cargo/registry/src/github.com-1ecc6299db9ec823/ed25519-dalek-1.0.1/src/lib.rs:
+/home/vlad/.cargo/registry/src/github.com-1ecc6299db9ec823/ed25519-dalek-1.0.1/src/constants.rs:
+/home/vlad/.cargo/registry/src/github.com-1ecc6299db9ec823/ed25519-dalek-1.0.1/src/keypair.rs:
+/home/vlad/.cargo/registry/src/github.com-1ecc6299db9ec823/ed25519-dalek-1.0.1/src/errors.rs:
+/home/vlad/.cargo/registry/src/github.com-1ecc6299db9ec823/ed25519-dalek-1.0.1/src/public.rs:
+/home/vlad/.cargo/registry/src/github.com-1ecc6299db9ec823/ed25519-dalek-1.0.1/src/secret.rs:
+/home/vlad/.cargo/registry/src/github.com-1ecc6299db9ec823/ed25519-dalek-1.0.1/src/signature.rs:

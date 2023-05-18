@@ -1,0 +1,11 @@
+/home/vlad/Documents/GitHub/get_test_net_money/get_near_testnet_money/contract/target/debug/deps/digest-a5ca21f0e0ed5384.rmeta: /home/vlad/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.6/src/lib.rs /home/vlad/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.6/src/core_api.rs /home/vlad/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.6/src/core_api/ct_variable.rs /home/vlad/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.6/src/core_api/rt_variable.rs /home/vlad/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.6/src/core_api/wrapper.rs /home/vlad/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.6/src/core_api/xof_reader.rs /home/vlad/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.6/src/digest.rs
+
+/home/vlad/Documents/GitHub/get_test_net_money/get_near_testnet_money/contract/target/debug/deps/digest-a5ca21f0e0ed5384.d: /home/vlad/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.6/src/lib.rs /home/vlad/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.6/src/core_api.rs /home/vlad/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.6/src/core_api/ct_variable.rs /home/vlad/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.6/src/core_api/rt_variable.rs /home/vlad/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.6/src/core_api/wrapper.rs /home/vlad/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.6/src/core_api/xof_reader.rs /home/vlad/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.6/src/digest.rs
+
+/home/vlad/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.6/src/lib.rs:
+/home/vlad/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.6/src/core_api.rs:
+/home/vlad/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.6/src/core_api/ct_variable.rs:
+/home/vlad/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.6/src/core_api/rt_variable.rs:
+/home/vlad/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.6/src/core_api/wrapper.rs:
+/home/vlad/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.6/src/core_api/xof_reader.rs:
+/home/vlad/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.6/src/digest.rs:

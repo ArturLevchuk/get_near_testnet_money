@@ -1,0 +1,12 @@
+/home/vlad/Documents/GitHub/get_test_net_money/get_near_testnet_money/contract/target/debug/deps/zeropool_bn-93488ebbae4c6a16.rmeta: /home/vlad/.cargo/registry/src/github.com-1ecc6299db9ec823/zeropool-bn-0.5.11/src/lib.rs /home/vlad/.cargo/registry/src/github.com-1ecc6299db9ec823/zeropool-bn-0.5.11/src/arith.rs /home/vlad/.cargo/registry/src/github.com-1ecc6299db9ec823/zeropool-bn-0.5.11/src/fields/mod.rs /home/vlad/.cargo/registry/src/github.com-1ecc6299db9ec823/zeropool-bn-0.5.11/src/fields/fp.rs /home/vlad/.cargo/registry/src/github.com-1ecc6299db9ec823/zeropool-bn-0.5.11/src/fields/fq12.rs /home/vlad/.cargo/registry/src/github.com-1ecc6299db9ec823/zeropool-bn-0.5.11/src/fields/fq2.rs /home/vlad/.cargo/registry/src/github.com-1ecc6299db9ec823/zeropool-bn-0.5.11/src/fields/fq6.rs /home/vlad/.cargo/registry/src/github.com-1ecc6299db9ec823/zeropool-bn-0.5.11/src/groups/mod.rs
+
+/home/vlad/Documents/GitHub/get_test_net_money/get_near_testnet_money/contract/target/debug/deps/zeropool_bn-93488ebbae4c6a16.d: /home/vlad/.cargo/registry/src/github.com-1ecc6299db9ec823/zeropool-bn-0.5.11/src/lib.rs /home/vlad/.cargo/registry/src/github.com-1ecc6299db9ec823/zeropool-bn-0.5.11/src/arith.rs /home/vlad/.cargo/registry/src/github.com-1ecc6299db9ec823/zeropool-bn-0.5.11/src/fields/mod.rs /home/vlad/.cargo/registry/src/github.com-1ecc6299db9ec823/zeropool-bn-0.5.11/src/fields/fp.rs /home/vlad/.cargo/registry/src/github.com-1ecc6299db9ec823/zeropool-bn-0.5.11/src/fields/fq12.rs /home/vlad/.cargo/registry/src/github.com-1ecc6299db9ec823/zeropool-bn-0.5.11/src/fields/fq2.rs /home/vlad/.cargo/registry/src/github.com-1ecc6299db9ec823/zeropool-bn-0.5.11/src/fields/fq6.rs /home/vlad/.cargo/registry/src/github.com-1ecc6299db9ec823/zeropool-bn-0.5.11/src/groups/mod.rs
+
+/home/vlad/.cargo/registry/src/github.com-1ecc6299db9ec823/zeropool-bn-0.5.11/src/lib.rs:
+/home/vlad/.cargo/registry/src/github.com-1ecc6299db9ec823/zeropool-bn-0.5.11/src/arith.rs:
+/home/vlad/.cargo/registry/src/github.com-1ecc6299db9ec823/zeropool-bn-0.5.11/src/fields/mod.rs:
+/home/vlad/.cargo/registry/src/github.com-1ecc6299db9ec823/zeropool-bn-0.5.11/src/fields/fp.rs:
+/home/vlad/.cargo/registry/src/github.com-1ecc6299db9ec823/zeropool-bn-0.5.11/src/fields/fq12.rs:
+/home/vlad/.cargo/registry/src/github.com-1ecc6299db9ec823/zeropool-bn-0.5.11/src/fields/fq2.rs:
+/home/vlad/.cargo/registry/src/github.com-1ecc6299db9ec823/zeropool-bn-0.5.11/src/fields/fq6.rs:
+/home/vlad/.cargo/registry/src/github.com-1ecc6299db9ec823/zeropool-bn-0.5.11/src/groups/mod.rs:

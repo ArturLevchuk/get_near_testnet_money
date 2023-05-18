@@ -1,0 +1,1 @@
+/home/vlad/Documents/GitHub/get_test_net_money/get_near_testnet_money/contract/target/wasm32-unknown-unknown/release/hello_near.wasm: /home/vlad/Documents/GitHub/get_test_net_money/get_near_testnet_money/contract/src/lib.rs
