@@ -1,3 +1,0 @@
-cargo:rerun-if-changed=build/main.rs
-cargo:rustc-env=TYPENUM_BUILD_CONSTS=/home/vlad/Documents/GitHub/get_test_net_money/get_near_testnet_money/contract/target/debug/build/typenum-525d3b069a726c25/out/consts.rs
-cargo:rustc-env=TYPENUM_BUILD_OP=/home/vlad/Documents/GitHub/get_test_net_money/get_near_testnet_money/contract/target/debug/build/typenum-525d3b069a726c25/out/op.rs

@@ -1,64 +1,91 @@
-// Find all our documentation at https://docs.near.org
 use near_sdk::borsh::{self, BorshDeserialize, BorshSerialize};
-use near_sdk::{log, near_bindgen};
+use near_sdk::collections::LookupMap;
+use near_sdk::{env, near_bindgen, AccountId};
 
-// Define the default message
-const DEFAULT_MESSAGE: &str = "Hello";
-
-// Define the contract structure
 #[near_bindgen]
 #[derive(BorshDeserialize, BorshSerialize)]
-pub struct Contract {
-    message: String,
+pub struct StatusMessage {
+    records: LookupMap<AccountId, String>,
 }
 
-// Define the default, which automatically initializes the contract
-impl Default for Contract{
-    fn default() -> Self{
-        Self{message: DEFAULT_MESSAGE.to_string()}
+impl Default for StatusMessage {
+    fn default() -> Self {
+        Self {
+            records: LookupMap::new(b"r".to_vec()),
+        }
     }
 }
 
-// Implement the contract structure
 #[near_bindgen]
-impl Contract {
-    // Public method - returns the greeting saved, defaulting to DEFAULT_MESSAGE
-    pub fn get_greeting(&self) -> String {
-        return self.message.clone();
+impl StatusMessage {
+    pub fn set_status(&mut self, message: String) {
+        let account_id = env::signer_account_id();
+        self.records.insert(&account_id, &message);
     }
 
-    // Public method - accepts a greeting, such as "howdy", and records it
-    pub fn set_greeting(&mut self, message: String) {
-        log!("Saving greeting {}", message);
-        self.message = message;
+    pub fn get_status(&self, account_id: AccountId) -> Option<String> {
+        return self.records.get(&account_id);
     }
 }
+// // Find all our documentation at https://docs.near.org
+// use near_sdk::borsh::{self, BorshDeserialize, BorshSerialize};
+// use near_sdk::env::log_str;
+// use near_sdk::near_bindgen;
 
-/*
- * The rest of this file holds the inline tests for the code above
- * Learn more about Rust tests: https://doc.rust-lang.org/book/ch11-01-writing-tests.html
- */
-#[cfg(test)]
-mod tests {
-    use super::*;
+// // Define the contract structure
+// #[near_bindgen]
+// #[derive(BorshDeserialize, BorshSerialize)]
+// pub struct Contract {
+//     greeting: String,
+// }
 
-    #[test]
-    fn get_default_greeting() {
-        let contract = Contract::default();
-        // this test did not call set_greeting so should return the default "Hello" greeting
-        assert_eq!(
-            contract.get_greeting(),
-            "Hello".to_string()
-        );
-    }
+// // Define the default, which automatically initializes the contract
+// impl Default for Contract {
+//     fn default() -> Self {
+//         Self { greeting: "Hello".to_string() }
+//     }
+// }
 
-    #[test]
-    fn set_then_get_greeting() {
-        let mut contract = Contract::default();
-        contract.set_greeting("howdy".to_string());
-        assert_eq!(
-            contract.get_greeting(),
-            "howdy".to_string()
-        );
-    }
-}
+// // Implement the contract structure
+// #[near_bindgen]
+// impl Contract {
+//     // Public method - returns the greeting saved, defaulting to DEFAULT_GREETING
+//     pub fn get_greeting(&self) -> String {
+//         return self.greeting.clone();
+//     }
+
+//     // Public method - accepts a greeting, such as "howdy", and records it
+//     pub fn set_greeting(&mut self, greeting: String) {
+//         log_str(&format!("Saving greeting: {greeting}"));
+//         self.greeting = greeting;
+//     }
+// }
+
+// /*
+//  * The rest of this file holds the inline tests for the code above
+//  * Learn more about Rust tests: https://doc.rust-lang.org/book/ch11-01-writing-tests.html
+//  */
+// #[cfg(test)]
+// mod tests {
+//     use super::*;
+
+//     #[test]
+//     fn get_default_greeting() {
+//         let contract = Contract::default();
+//         // this test did not call set_greeting so should return the default "Hello" greeting
+//         assert_eq!(
+//             contract.get_greeting(),
+//             "Hello".to_string()
+//         );
+//     }
+
+//     #[test]
+//     fn set_then_get_greeting() {
+//         let mut contract = Contract::default();
+//         contract.set_greeting("howdy".to_string());
+//         assert_eq!(
+//             contract.get_greeting(),
+//             "howdy".to_string()
+//         );
+//     }
+// }
